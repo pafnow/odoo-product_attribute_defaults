@@ -8,6 +8,8 @@
     'description': 'Add default value for product template attribute on product and partner',
     'data': [
         'views/partner_view.xml',
+        'views/product_attribute_view.xml',
+        'views/product_template_view.xml',
     ],
     'installable': True,
     'application': False,
