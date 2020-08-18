@@ -3,7 +3,7 @@
     'name': 'Product Attribute Default Values',
     'version': '13.0.1.0.0',
     'depends': ['product'],
-    'author': 'Pafnow',
+    'author': 'MRM, Pafnow',
     'category': 'Product',
     'description': 'Add default value for product template attribute on product and partner',
     'data': [
